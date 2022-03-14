@@ -11,8 +11,6 @@ layout = [
             size=(40, 3))
     ],
     [
-        sg.Text("Age: "),
-        sg.Input(size=(3, 1), key='-AGE-'),
         sg.Text("Weight: "),
         sg.Input(size=(3, 1), key='-WEIGHT-'),
         sg.Text("lbs.")
